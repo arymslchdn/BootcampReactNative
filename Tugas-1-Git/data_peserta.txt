@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Data Peserta Sanbercode Bootcamp React Native
 1. Nama: Arie Muslichudin
 2. Email: arymuslichudin@gmail.com
 3. Akun Github: @arymslchdn
 4. Akun Telegram: @arymuslichudin
+=======
+Data Peserta Sanbercode Bootcamp React Native
+1. Nama: Arie Muslichudin
+2. Email: arymuslichudin@gmail.com
+3. Akun Github: @arymslchdn
+4. Akun Telegram: @arymuslichudin
+>>>>>>> 0deb9c569b8df977f70c286d42b12467d03744cf
