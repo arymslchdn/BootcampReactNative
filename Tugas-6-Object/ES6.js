@@ -16,7 +16,7 @@ const newFunction = function literal(firstName, lastName){
     }
   }
 }
- 
+
 //Driver Code 
 newFunction("William", "Imoh").fullName()
 
