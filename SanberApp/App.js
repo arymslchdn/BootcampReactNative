@@ -1,24 +1,9 @@
-import React  from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import 'react-native-gesture-handler';
+import React from 'react';
+import { StyleSheet } from 'react-native';
+import { NavigationContainer } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import Login from './Tugas11/LoginScreen';
+import About from './Tugas11/AboutScreen';
+const Stack = createStackNavigator();
 
-import Telegram from './Tugas/Tugas9/Telegram';
-import TelegramUI from './Tugas/Tugas9/App'
-
-
-export default function App() {
-  return (
-  <TelegramUI />
-  // <View style={styles.container}>
-  // <Text>Open up App.js to start working on your app!</Text>
-  // </View>
-  );
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    Color: 'white',
-    alignItems: 'center',
-    justifyContent: 'center'
-  }
-})
